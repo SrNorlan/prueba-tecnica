@@ -31,9 +31,9 @@ cd prueba-tecnica
 
 ### 2. Clonar también el repositorio de la API mock
 ```
-git clone https://github.com/lafise/frontend-mobile-challenge-mock.git
+git clone https://github.com/lafise/mobile-frontend-challenge-mock.git
 
-cd frontend-mobile-challenge-mock
+cd mobile-frontend-challenge-mock
 
 npm install
 
